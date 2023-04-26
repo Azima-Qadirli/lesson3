@@ -1,0 +1,25 @@
+li{
+    border: 5px solid red;
+    margin-bottom: 10px;
+}
+#dashed{
+    border: 5px dashed red;
+}
+#dotted{
+    border:5px dotted red;
+}
+#double{
+    border:3px double red;
+}
+#ridge{
+    border:5px ridge red;
+}
+#inset{
+    border:5px inset red;
+}
+#outset{
+    border: 5px outset red;
+}
+#groove{
+    border:5px groove red;
+}
